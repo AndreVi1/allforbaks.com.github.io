@@ -1,0 +1,187 @@
+body {
+	background-color: #081928;
+	font-family: arial, verdana, sans-serif;
+}
+
+.wrap {
+	color:#0E4D66;
+}
+
+header h1 {
+	color: #ffffff;
+	text-align: center;
+	margin-top: 50px;
+}
+
+#logo {
+	margin-right: 5px;
+	width: 25px;
+	height: auto;
+}
+
+.menu {
+	padding-top: 60px;
+	padding-left: 300px;
+}
+
+div .menu ul li {
+	float: left;
+	text-align: center;
+	margin-right: 35px;
+	list-style-type: none;
+}
+
+.menu ul li a{
+	color: #ffffff;
+	font-size: 15px;
+}
+
+#pict_comp {
+	padding-top: 2px;
+	padding-right: 5px;
+	float: left;
+	height: 12px;
+}
+
+#pict_twitter {
+	padding-top: 2px;
+	padding-right: 5px;
+	float: left;
+	height: 12px;
+}
+
+#pict_facebook {
+	padding-top: 2px;
+	padding-right: 5px;
+	float: left;
+	height: 12px;
+}
+
+#pict_vk {
+	padding-top: 2px;
+	padding-right: 5px;
+	float: left;
+	height: 12px;
+}
+
+#pict_google {
+	padding-top: 2px;
+	padding-right: 5px;
+	float: left;
+	height: 12px;
+}
+
+.content {
+	margin: 60px 1px 0 250px;
+	padding: 0px 50px 50px 0px;
+	overflow: hidden;
+	background-color: #F3F3F3;
+	width: 740px;
+	height: auto;
+	border-radius: 10px;
+}
+
+#name {
+	margin-top: 50px;
+	margin-left: 70px;
+	font-size: 25px;
+	text-shadow: 0px 1px 2px;
+}
+
+#avatar {
+	margin-top: 15px;
+	margin-left: 70px;
+	border: 3px solid #0E4D66;
+	border-radius: 10px;
+	float: left;
+	width: 169px;
+}
+
+.information {
+	margin-top: 33px;
+	margin-left: 300px;
+}
+
+#birthday {
+	margin-left: 100px;
+}
+
+#village {
+	margin-left: 73px;
+}
+
+#status {
+	margin-left: 53px;
+}
+
+#job {
+	margin-left: 116px;
+}
+
+#study {
+	margin-left: 115px;
+}
+
+.contacts {
+	margin-left: 70px;
+	margin-bottom: 25px;
+}
+
+#contacts {
+	margin-top: 30px;
+}
+
+#contacts p {
+	margin-left: 70px;
+}
+
+#phone {
+ 	margin-left: 12px;
+}
+
+#email {
+	margin-left: 40px;
+}
+
+#skype {
+	margin-left: 37px;
+}
+
+.about_me h3 {
+	margin-left: 70px;
+	margin-top: 40px;
+}
+
+.about_me p {
+	text-indent: 20px;
+	margin-left: 70px;
+	margin-top: 20px;
+}
+
+.footer {
+	height: 110px;
+}
+
+.footer hr {
+	margin-top: 45px;
+	color: #F3F3F3;
+}
+
+.footer h3 {
+	color: #F2B01C;
+	float: left;
+	margin-top: 40px;
+	margin-left: 250px;
+}
+
+.footer p {
+	color: #F3F3F3;
+	margin-top: 54px; 
+	margin-left: 429px;
+	font-size: 13px;
+}
+#copy {
+	float: right;
+	margin-top: -34px;
+	margin-right: 220px;
+}
